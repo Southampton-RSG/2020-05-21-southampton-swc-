@@ -6,7 +6,7 @@ country: "uk"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "50.936699"     # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-1.395100"    # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "May 21-22, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "21-22 May, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-05-21      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-05-22        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
@@ -193,7 +193,7 @@ Display the contact email address set in the configuration file.
 </p>
 
 <p id="registration">
-<strong>Registration:</strong>  We kindly ask that interested participants <a href="https://forms.gle/z7kr2t2PcQbmmnci6">register</a> by March 6, 2020. Complimentary coffee, snacks, and lunch will be available for registered participants during the scheduled breaks.
+<strong>Registration:</strong>  We kindly ask that interested participants <a href="https://www.gradbook.soton.ac.uk/">register on GradBook</a> by <font color='red'>DEADLINE</font>.
 </p>
 
 <hr/>
